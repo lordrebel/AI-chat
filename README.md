@@ -2,7 +2,7 @@
  * @Author: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
  * @Date: 2025-01-27 10:14:40
  * @LastEditors: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
- * @LastEditTime: 2025-02-02 09:38:53
+ * @LastEditTime: 2025-02-02 09:57:59
  * @FilePath: \AI-chat\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -26,7 +26,7 @@ AI聊天机器人
 
 options:
   -h, --help    show this help message and exit
-  --use_google  OpenAI API key
+  --use_google  google speech recognition
 ```
 默认使用vosk本地语音识别，加上--use_google 使用谷歌语音识别（需要科学上网）  
 
